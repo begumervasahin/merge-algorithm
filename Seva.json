@@ -1,0 +1,385 @@
+[{
+  "sure": 0,
+  "kelime1": "hadi eve gel",
+  "kelime2": "eve gel dedi annem"
+},{
+  "sure": 0.000093699,
+  "kelime1": "hadi  ",
+  "kelime2": "  dedi annem"
+
+},{
+  "sure": 0,
+  "kelime1": "halime eve geldi",
+  "kelime2": "geldi ve yemek yedi"
+},{
+  "sure": 0.0004711,
+  "kelime1": "halime eve ",
+  "kelime2": " ve yemek yedi",
+  "birlesmisSon": "halime eve geldi  ve yemek yedi"
+},{
+  "sure": 0,
+  "kelime1": "ali eve geldi",
+  "kelime2": "eve geldi yemek yedi"
+},{
+  "sure": 0.0001372,
+  "kelime1": "ali  ",
+  "kelime2": "  yemek yedi",
+  "birlesmisSon": "ali  eve geldi   yemek yedi"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": "erva"
+},{
+  "sure": 0.0001003,
+  "kelime1": "begüm ",
+  "kelime2": "",
+  "birlesmisSon": "begüm erva "
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": "erva"
+},{
+  "sure": 0.0002747,
+  "kelime1": "begüm ",
+  "kelime2": "",
+  "birlesmisSon": "begüm erva "
+},{
+  "sure": 0,
+  "kelime1": "bu gün hava güzel",
+  "kelime2": "güzelse parka gidelim"
+},{
+  "sure": 0,
+  "kelime1": "bu gün hava güzel",
+  "kelime2": "güzel parka gidelim"
+},{
+  "sure": 0.0002959,
+  "kelime1": "bu gün hava ",
+  "kelime2": " parka gidelim",
+  "birlesmisSon": "bu gün hava güzel  parka gidelim"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva gel",
+  "kelime2": "erva gelmiş"
+},{
+  "sure": 0.0001814,
+  "kelime1": "begüm  gel",
+  "kelime2": " gelmiş",
+  "birlesmisSon": "begüm  gelerva  gelmiş"
+},{
+  "sure": 0,
+  "kelime1": "ahmet",
+  "kelime2": "mehmet"
+},{
+  "sure": 0,
+  "kelime1": "ahmet",
+  "kelime2": "ahmetler"
+},{
+  "sure": 0,
+  "kelime1": "ali eve geldi",
+  "kelime2": "eve geldi yemek yedi"
+},{
+  "sure": 0.0000704,
+  "kelime1": "ali  ",
+  "kelime2": "  yemek yedi",
+  "birlesmisSon": "ali  eve geldi   yemek yedi"
+},{
+  "sure": 0,
+  "kelime1": "ali geldi",
+  "kelime2": "veli geldi"
+},{
+  "sure": 0.0003071,
+  "kelime1": "ali ",
+  "kelime2": "veli ",
+  "birlesmisSon": "ali geldi veli "
+},{
+  "sure": 0,
+  "kelime1": "eve geldi",
+  "kelime2": "veli geldi gitti"
+},{
+  "sure": 0.0000628,
+  "kelime1": "eve ",
+  "kelime2": "veli  gitti",
+  "birlesmisSon": "eve geldi veli  gitti"
+},{
+  "sure": 0,
+  "kelime1": "ali",
+  "kelime2": "alican"
+},{
+  "sure": 0,
+  "kelime1": "ali",
+  "kelime2": "alican"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": ""
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": ""
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": ""
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": "",
+  "birlesmisSon": "KELİME GİRİSİ YAPMADİNİZ."
+},{
+  "sure": 0,
+  "kelime1": "seda nur",
+  "kelime2": "erva"
+},{
+  "sure": 0.0001787,
+  "kelime1": "seda nur",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "ali"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "ali",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOK"
+},{
+  "sure": 0,
+  "kelime1": "begüm gel",
+  "kelime2": "asd asd"
+},{
+  "sure": 0.0000653,
+  "kelime1": "begüm gel",
+  "kelime2": "asd asd",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOK"
+},{
+  "sure": 0,
+  "kelime1": "begüm ",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm ",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm ",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm ",
+  "kelime2": "erva",
+  "birlesmisSon": "e"
+},{
+  "sure": 0,
+  "kelime1": "ali",
+  "kelime2": "alican"
+},{
+  "sure": 0,
+  "kelime1": "ali",
+  "kelime2": "alican",
+  "birlesmisSon": "aali"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0001855,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOK"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0002517,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOKgel dedi annemson kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0003376,
+  "kelime1": "gel dedi annem",
+  "kelime2": "son kez git",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOK -> gel dedi annem son kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem , sonra kos",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0002293,
+  "kelime1": "gel dedi annem , sonra kos",
+  "kelime2": "son kez git",
+  "birlesmisSon": "2 KELİMEDE ORTAK YOK -> gel dedi annem , sonra kos son kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem , son kos",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0002607,
+  "kelime1": "gel dedi annem ,  kos",
+  "kelime2": " kez git",
+  "birlesmisSon": "gel dedi annem ,  kosson  kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem , son kos",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0000711,
+  "kelime1": "gel dedi annem ,  kos",
+  "kelime2": " kez git",
+  "birlesmisSon": "gel dedi annem ,  kosson  kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem , son kos",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0002582,
+  "kelime1": "gel dedi annem ,  kos",
+  "kelime2": " kez git",
+  "birlesmisSon": "gel dedi annem ,  kos son   kez git"
+},{
+  "sure": 0,
+  "kelime1": "gel dedi annem son kos",
+  "kelime2": "son kez git"
+},{
+  "sure": 0.0000558,
+  "kelime1": "gel dedi annem  kos",
+  "kelime2": " kez git",
+  "birlesmisSon": "gel dedi annem  kos son   kez git"
+},{
+  "sure": 0,
+  "kelime1": "ali eve geldi",
+  "kelime2": "erva"
+},{
+  "sure": 0.0004338,
+  "kelime1": "ali eve geldi",
+  "kelime2": "erva",
+  "birlesmisSon": "2 KELİMEDE ORTAK YOK -> ali eve geldi erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva",
+  "birlesmisSon": "bgümerva"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva gel",
+  "kelime2": "seda eve gel"
+},{
+  "sure": 0.0002578,
+  "kelime1": "begüm erva ",
+  "kelime2": "seda eve ",
+  "birlesmisSon": "begüm erva  gel  seda eve "
+},{
+  "sure": 0,
+  "kelime1": "abcdef",
+  "kelime2": "lkjhfe"
+},{
+  "sure": 0,
+  "kelime1": "abcdef",
+  "kelime2": "lkjhfe",
+  "birlesmisSon": "abcdeflkjh"
+},{
+  "sure": 0,
+  "kelime1": "abcdef",
+  "kelime2": "lkjhfe"
+},{
+  "sure": 0,
+  "kelime1": "abcdef",
+  "kelime2": "lkjhfe",
+  "birlesmisSon": "abcdeflkjh"
+},{
+  "sure": 0,
+  "kelime1": "asdfgh",
+  "kelime2": "fgkla"
+},{
+  "sure": 0.0003011,
+  "kelime1": "asdfgh",
+  "kelime2": "fgkla",
+  "birlesmisSon": "sdhafgkl"
+},{
+  "sure": 0,
+  "kelime1": "asdfgh",
+  "kelime2": "fgkla"
+},{
+  "sure": 0.0000736,
+  "kelime1": "asdfgh",
+  "kelime2": "fgkla",
+  "birlesmisSon": "sdhafgkl"
+},{
+  "sure": 0,
+  "kelime1": "asdfgh",
+  "kelime2": "kk"
+},{
+  "sure": 0.0000698,
+  "kelime1": "asdfgh",
+  "kelime2": "kk",
+  "birlesmisSon": "2 KELİMEDE ORTAK KARAKTER YOK -> asdfgh kk"
+},{
+  "sure": 0,
+  "kelime1": "asdfgh",
+  "kelime2": "kk"
+},{
+  "sure": 0.0003209,
+  "kelime1": "asdfgh",
+  "kelime2": "kk",
+  "birlesmisSon": "ORTAK KARAKTER YOK -> asdfgh kk"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": "erva gedi"
+},{
+  "sure": 0.0012337,
+  "kelime1": "begüm ",
+  "kelime2": " gedi",
+  "birlesmisSon": "begüm  erva   gedi"
+},{
+  "sure": 0,
+  "kelime1": "ali eve geldi",
+  "kelime2": "erva"
+},{
+  "sure": 0.0000833,
+  "kelime1": "ali eve geldi",
+  "kelime2": "erva",
+  "birlesmisSon": "ORTAK YOK -> ali eve geldi erva"
+},{
+  "sure": 0,
+  "kelime1": "begüm erva",
+  "kelime2": "erva gelme"
+},{
+  "sure": 0.0003632,
+  "kelime1": "begüm ",
+  "kelime2": " gelme",
+  "birlesmisSon": "begüm erva gelme"
+},{
+  "sure": 0,
+  "kelime1": "begüm",
+  "kelime2": "erva"
+},{
+  "sure": 0.0002794,
+  "kelime1": "begüm",
+  "kelime2": "erva",
+  "birlesmisSon": "ebgümrva"
+}]
